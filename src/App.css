@@ -1,0 +1,14 @@
+body {
+  background: white;
+  color: black;
+}
+
+button.b {
+  background: black;
+  color: white;
+}
+
+ul > li {
+  background: white;
+  color: black;
+}
